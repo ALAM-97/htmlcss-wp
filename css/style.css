@@ -45,7 +45,7 @@ li {
 
 nav li a {
     text-decoration: none;
-    color: grey;
+    color: lightgrey;
 }
 
 a:hover {
@@ -108,8 +108,8 @@ section.leadership {
     margin-bottom: 20px;
 }
 
-.leadership-intro > div {
-    color: grey;
+.leadership-intro p {
+    color: lightgrey;
 }
 
 .left-column, .right-column {
@@ -137,7 +137,7 @@ h6 {
 }
 
 .left-column > p, .center-column > p, .right-column > p {
-    color: grey;
+    color: lightgrey;
 }
 
 .dark-img {
