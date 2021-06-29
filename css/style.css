@@ -49,8 +49,9 @@ nav li a {
 }
 
 a:hover {
-    text-decoration: underline;
-    font-weight: 700;
+    border-bottom: 3px solid black;
+    padding-bottom: 10px;
+    /* font-weight: 700; */
 }
 
 /* MAIN HERO SECTION */
