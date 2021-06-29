@@ -25,6 +25,7 @@ div.container {
 
 header {
     width: 100%;
+    text-align: center;
 }
 
 .logo {
@@ -34,6 +35,7 @@ header {
 ul {
     list-style: none;
     padding: 35px 0;
+    text-align: center;
 }
 
 li {
